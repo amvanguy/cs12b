@@ -1,0 +1,23 @@
+//------------------------------------------------------------------------------
+//Amanda Nguyen 
+//amvanguy@ucsc.edu
+//CMPS 12B: Tantalo (Summer 2017)
+//
+//Lab #7: The purpose of this assignment is to recreate the Dictionary ADT in C 
+// based on a hash table instead of a linked list
+// -----------------------------------------------------------------------------
+// DictionaryTest.c
+// Test module for Dictionary.c
+// -----------------------------------------------------------------------------
+
+Files written by me in this assignment include:
+
+1) README
+2) Makefile
+3) Dictionary.c
+4) DictionaryTest.c
+
+Other given files: 
+
+5) Dictionary.h
+6) DictionaryClient.c

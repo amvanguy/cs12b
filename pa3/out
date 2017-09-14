@@ -1,0 +1,22 @@
+7 g
+6 f
+5 e
+4 d
+3 c
+2 b
+1 a
+
+key=1 value=a
+key=3 value=c
+key=7 value=g
+key=8 not found
+
+6 f
+5 e
+4 d
+2 b
+
+false
+4
+true
+

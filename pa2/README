@@ -1,0 +1,18 @@
+#-------------------------------------------------------------------
+#Amanda Nguyen
+#amvanguy@ucsc.edu
+#CMPS 12B: Intro to Data Structures - Tantalo (Summer 2017)
+#
+#Program #2: The purpose of this assignment is to
+#implement the Binary Search and Merge Sort algorithms to read a file
+#that the user prompts on the command line and searches the file for
+#the target word.
+#-----------------------------------------------------------------
+# Programming Assignment #2: Makefile
+#-----------------------------------------------------------------
+
+Files in this assignment include:
+ 
+1) README
+2) Makefile
+3) Search.java

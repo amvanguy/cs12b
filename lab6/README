@@ -1,0 +1,24 @@
+ //-------------------------------------------------------------------------
+//Amanda Nguyen 
+//amvanguy@ucsc.edu
+//CMPS 12M: Tantalo (Summer 2017)
+//
+//Lab #6: The purpose of this assignment is to gain experience with an 
+//advanced feature in Java called Generics 
+//-----------------------------------------------------------------------------
+// ListTest.java
+// Test File for List ADT using Java Generics
+//-----------------------------------------------------------------------------
+
+Files written by me in this assignment include:
+
+1) README
+2) Makefile
+3) List.java
+4) ListTest.java
+
+Other given files: 
+
+5) ListIndexOutOfBoundsException.java 
+6) ListInterface.java
+7) ListClient.java 

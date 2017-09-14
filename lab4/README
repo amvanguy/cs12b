@@ -1,0 +1,18 @@
+//-------------------------------------------------------------------------
+//Amanda Nguyen 
+//amvanguy@ucsc.edu
+//CMPS 12M: Tantalo (Summer 2017)
+//
+//Lab #4: The purpose of this assignment is to  get more practice programming 
+//in C, including the character functions in the library ctype.h, and dynamic 
+//memory allocation using malloc, calloc, and free
+//-------------------------------------------------------------------------
+// README for charType.c  
+// ------------------------------------------------------------------------
+
+Files in this assignment include:
+
+1) README
+2) Makefile
+3) charType.c
+

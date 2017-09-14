@@ -1,0 +1,23 @@
+//-------------------------------------------------------------------------
+//Amanda Nguyen 
+//amvanguy@ucsc.edu
+//CMPS 12B: Tantalo (Summer 2017)
+//
+//Lab #7: The purpose of this assignment is to to translate the Binary Search 
+//Tree (BST) based Dictionary in C into Java 
+//-------------------------------------------------------------------------
+// README
+//-----------------------------------------------------------------------------
+
+Files written by me in this assignment include:
+
+1) README
+2) Makefile
+3) Dictionary.java
+
+Other given files: 
+
+4) DuplicateKeyException.java 
+5) KeyNotFoundException.java
+6) DictionaryInterface.java
+7) DictionaryClient.java 
