@@ -137,7 +137,7 @@ char* lookup(Dictionary D, char* k){
 
 	if(D == NULL){
       fprintf(stderr, 
-              "Dictionary Error: calling printLinkedList() on NULL Dictionary reference\n");
+              "Dictionary Error: calling lookup() on NULL Dictionary reference\n");
       exit(EXIT_FAILURE);
     }
 
